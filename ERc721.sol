@@ -173,12 +173,4 @@ contract AMNA is ERC721 {
         emit Transfer(from, address(0), tokenId);
     }
 
-   
-
-function name( name) {
-    
-}
-
-
-
 }
